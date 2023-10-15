@@ -1,6 +1,7 @@
 # Vtuber(AI) Test
-![螢幕擷取畫面 2023-10-15 142749](https://github.com/hydestory/AI-Waifu-Vtuber-master/assets/35997995/4f3da096-a5bc-4d24-8271-68abf6487525)
+
 ## 工作流程步驟：
+![螢幕擷取畫面 2023-10-15 142749](https://github.com/hydestory/Vtuber-AI-test/assets/35997995/8dbf4cb4-3d14-4559-b90e-e70d1e905c35)
 
 1. **語音輸入/YouTube 聊天室擷取**
    - 捕捉語音輸入或YouTube聊天室的訊息。
